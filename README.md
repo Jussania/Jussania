@@ -1,11 +1,11 @@
-### Olá, sou a Jussania Korol👋
+## Olá, sou a Jussania Korol👋
 Estudante de Análise e Desenvolvimento de Sistemas !👨‍🎓
 
 - 👩‍💻 Desenvolvedora Back-end
 - 💻 Estudando .Net 
 - 😀 Pronouns: Ela / Dela
 
-<div align="left">
+<div>
 <a href="https://github.com/Jussania">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jussania&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jussania&layout=compact&langs_count=7&theme=dracula"/>
