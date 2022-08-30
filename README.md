@@ -1,7 +1,7 @@
 ## Olá, sou a Jussania Korol👋
 Estudante de Análise e Desenvolvimento de Sistemas !👨‍🎓
 
-- 👩‍💻 Desenvolvedora Back-end
+- 👩‍💻 Desenvolvedora Full Stack
 - 💻 Estudando .Net 
 - 😀 Pronouns: Ela / Dela
 
